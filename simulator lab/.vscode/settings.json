@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "scheduler.h": "c",
+        "stdint.h": "c",
+        "job.h": "c"
+    }
+}
